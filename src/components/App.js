@@ -17,7 +17,7 @@ const App = () => {
           <li onClick={()=>{
            setUpdate('Tab 3')
           }}>Tab 3</li>
-          <p>This is the content for {update}</p>
+          <p>This is the content for {update}.</p>
         </ul>
     </div>
   )
